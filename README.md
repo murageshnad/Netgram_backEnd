@@ -2,7 +2,7 @@
 
 
 Instagram-clone it includes rest API of Instgram features like login , signup, create post ,delete post like,comment and follow,unfollows operations..
-it uses cloudinary for storing images and storing and uses mongodb as DATABASE Storage
+it uses cloudinary for storing images and storing and uses mongodb as DATABASE Storage, uses Node js and Expess for routing..
 
         DATABASE SCHEMA
         
