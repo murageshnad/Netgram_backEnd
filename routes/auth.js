@@ -8,7 +8,6 @@ const jwt = require('jsonwebtoken')
 
 const requireLogin = require('../middleware/requireLogin');
 const secret = 'some other secret as default';
-//
 
 
 
